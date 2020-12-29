@@ -1,3 +1,4 @@
+---
 title: "Practice"
 date: 2020-12-29
 author: AbKumar
@@ -13,3 +14,4 @@ twitter_username: abkumar9677 # DO NOT include the @ character, or else the buil
 github_username:  abkumar9677 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
